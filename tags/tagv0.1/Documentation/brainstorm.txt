@@ -1,0 +1,23 @@
+Game elements brainstorm
+
+-castlevania sub-weapons
+-runner/platformer fast-paced 2-d sidescroller
+	-royalty-peaseant meter
+-lose power over time, get power-ups
+	-power-ups
+		- +power
+		- bad power-ups
+-power is "locked" at some point before final boss
+-heroine- "cinderella:
+	-female protaganist is focus
+-multiple endings
+-move right to left
+
+"CHEEVOS"
+-hits reduce power
+
+append
+	era: medieval
+	run from caste or to castle?
+		start in castle and escape(due to right to left)
+

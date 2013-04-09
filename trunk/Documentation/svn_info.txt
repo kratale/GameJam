@@ -1,0 +1,8 @@
+SVN repository address: svn://kbuchik.linkpc.net/isugamejam
+	Username: [whatever you wrote down]
+	Password: [username]1
+
+Web interface: http://kbuchik.linkpc.net/svnserve
+	Username: gamejam
+	Password: gamejampasswd
+
